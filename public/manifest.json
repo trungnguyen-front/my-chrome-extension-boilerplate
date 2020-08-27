@@ -1,9 +1,14 @@
 {
   "manifest_version": 2,
   "name": "Boilerplate extension",
-  "author": "Trung Nguyen",
+  "author": "Trung Nguyen - Kenny",
   "version": "0.0.1",
   "description": "Replace new tab screen with GitHub trending projects.",
+  "icon": {
+    "128": "128.png",
+    "48": "48.png",
+    "16": "16.png"
+  },
   "chrome_url_overrides": {
     "newtab": "index.html"
   },
