@@ -4,7 +4,7 @@
   "author": "Trung Nguyen - Kenny",
   "version": "0.0.1",
   "description": "Replace new tab screen with GitHub trending projects.",
-  "icon": {
+  "icons": {
     "128": "128.png",
     "48": "48.png",
     "16": "16.png"
